@@ -9,8 +9,10 @@ Have you:
 - [ ] linkedin profile (if you have one)
 - [x] made at least one change to the website to personalize it
 
-Link: https://github.com/ShreyaP00/ShreyaP00.github.io
-Changes: 
-Changed the background colors
-Added additional info (My hobbies)
-Added instagram 
+## Link:
+https://github.com/ShreyaP00/ShreyaP00.github.io
+
+## Changes: 
+    - Changed the background colors
+    - Added additional info (My hobbies)
+    - Added instagram 
