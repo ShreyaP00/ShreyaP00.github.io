@@ -3,6 +3,12 @@ version: "3"
 services:
   nodejs:
     # fill out the configuration here
+    image: node:10-alpine
+    container_name: nodejs-app
+    restart: unless-stopped
+    working_dir: /home/node/app
+    volumes:
+      - ./:/home/node/app
     networks:
       - app-network
 
@@ -28,7 +34,7 @@ volumes:
     driver_opts:
       type: none
       # fill out your absolute path to your folder here
-      device: /absolute/path/to/web/template/folder
+      device: /home/ayerhs/CMSC389T/Website
       o: bind
 
 networks:
