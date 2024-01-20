@@ -2,9 +2,15 @@
 
 Have you:
 
-- [ ] added profile picture
-- [ ] intro/bio
-- [ ] talked about a project (3x)
-- [ ] github profile
+- [x] added profile picture
+- [x] intro/bio
+- [x] talked about a project (3x)
+- [x] github profile
 - [ ] linkedin profile (if you have one)
-- [ ] made at least one change to the website to personalize it
+- [x] made at least one change to the website to personalize it
+
+Link: https://github.com/ShreyaP00/ShreyaP00.github.io
+Changes: 
+Changed the background colors
+Added additional info (My hobbies)
+Added instagram 
